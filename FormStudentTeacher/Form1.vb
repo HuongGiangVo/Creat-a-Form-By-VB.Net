@@ -6,7 +6,7 @@ Public Class Form1
     Dim SList2 As New List(Of Student)
     Dim TList1 As New List(Of Teacher)
     Dim TList2 As New List(Of Teacher)
-
+    'Add comment by Vu Pham
     Friend Sub ReadStudent_Click(sender As Object, e As EventArgs) Handles ReadStudent.Click
         ' Open file.txt with the Using statement.
         Using r As StreamReader = New StreamReader("Student.txt")
