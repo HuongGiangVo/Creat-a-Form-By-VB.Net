@@ -1,0 +1,8 @@
+id,name,age,mark,dept
+123,Dmitri,18,10,1
+128,Alex,30,10,1
+365,Lixin Su,25,9,2
+400,Maryam,29,9,1
+333,Chris,52,10,2
+895,Ruoxi,24,10,1
+452,Ted,30,10,2

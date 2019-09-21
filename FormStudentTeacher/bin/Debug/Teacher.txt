@@ -1,0 +1,6 @@
+id,name,age,salary,degree,dept
+20,Steve,36,1000,m,2
+31,Petko,46,5000,ph,1
+12,Hamad,55,4500,m,1
+98,Alessandro,32,5300,ph,2
+45,Mikhail,36,4800,ph,1
